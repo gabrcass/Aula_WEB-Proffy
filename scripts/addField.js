@@ -10,8 +10,5 @@ function cloneField() {
         field.value = ""
     })
 
-
-
     document.querySelector('#schedule-items').appendChild(newFieldContainer)
-
 }
